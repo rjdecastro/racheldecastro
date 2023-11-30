@@ -1,4 +1,4 @@
-# rachel decastro's cal poly github
+# Rachel Decastro's Cal Poly github
 ## projects:
 
   1. [retail analytics](https://linkmehere.com)
